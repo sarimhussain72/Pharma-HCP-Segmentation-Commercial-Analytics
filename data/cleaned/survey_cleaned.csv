@@ -1,0 +1,501 @@
+HCP_ID,Brand_Awareness,Adoption_Mindset,Evidence_Preference,Digital_Engagement,Segment
+HCP01448,High,Evidence Driven,Medium,Low,Low Priority
+HCP01115,Medium,Cost Conscious,Low,Low,Maintain
+HCP01065,Low,Early Adopter,High,Low,Growth Potential
+HCP02288,High,Early Adopter,Medium,Medium,Maintain
+HCP01538,High,Evidence Driven,Low,Low,Low Priority
+HCP00669,High,Conservative,Medium,High,Maintain
+HCP01584,High,Early Adopter,Low,Medium,Champions
+HCP02405,Low,Conservative,Low,High,Low Priority
+HCP00498,Low,Cost Conscious,High,High,Low Priority
+HCP02481,Medium,Conservative,High,High,Maintain
+HCP00472,Low,Cost Conscious,High,Low,Champions
+HCP00247,High,Evidence Driven,Medium,Low,Champions
+HCP00924,Medium,Early Adopter,Low,Medium,Growth Potential
+HCP01132,Medium,Cost Conscious,Low,Medium,Growth Potential
+HCP00671,High,Evidence Driven,Medium,Medium,Low Priority
+HCP00917,Medium,Conservative,Low,Medium,Champions
+HCP01415,Low,Early Adopter,Low,Low,Maintain
+HCP01607,High,Conservative,Low,Medium,Low Priority
+HCP00403,Low,Cost Conscious,Medium,High,Champions
+HCP01104,High,Conservative,High,Low,Maintain
+HCP02073,High,Conservative,High,Medium,Low Priority
+HCP00720,Medium,Evidence Driven,Low,Low,Growth Potential
+HCP02012,High,Early Adopter,High,Medium,Growth Potential
+HCP02437,Medium,Early Adopter,High,Medium,Maintain
+HCP00197,Low,Conservative,Low,Low,Low Priority
+HCP00892,Low,Conservative,Low,High,Champions
+HCP01265,Low,Cost Conscious,Medium,High,Maintain
+HCP01035,High,Evidence Driven,High,High,Champions
+HCP01326,Low,Cost Conscious,Medium,Medium,Champions
+HCP00510,Medium,Cost Conscious,High,High,Champions
+HCP01428,Low,Cost Conscious,Low,Medium,Growth Potential
+HCP00195,Low,Cost Conscious,Low,High,Low Priority
+HCP01180,High,Early Adopter,Low,Medium,Low Priority
+HCP02033,Low,Evidence Driven,Medium,Medium,Low Priority
+HCP00933,Medium,Early Adopter,High,Low,Maintain
+HCP01125,High,Early Adopter,High,High,Maintain
+HCP01823,High,Conservative,Medium,Medium,Champions
+HCP01367,Medium,Conservative,Medium,High,Growth Potential
+HCP01993,High,Cost Conscious,Low,Medium,Maintain
+HCP01259,High,Conservative,High,High,Maintain
+HCP02275,Medium,Evidence Driven,Medium,High,Champions
+HCP01274,High,Conservative,Medium,High,Maintain
+HCP01937,Medium,Evidence Driven,Medium,High,Growth Potential
+HCP01267,Low,Evidence Driven,High,Low,Growth Potential
+HCP00773,High,Early Adopter,Medium,Medium,Champions
+HCP01609,High,Conservative,Medium,High,Champions
+HCP01312,High,Conservative,Medium,Medium,Champions
+HCP00135,High,Cost Conscious,Medium,High,Champions
+HCP01856,High,Conservative,Medium,Low,Growth Potential
+HCP02400,Low,Conservative,Low,Medium,Growth Potential
+HCP00421,Medium,Conservative,Medium,Medium,Champions
+HCP01756,Low,Conservative,Low,High,Growth Potential
+HCP00708,High,Cost Conscious,Low,Low,Growth Potential
+HCP00094,Low,Early Adopter,High,High,Maintain
+HCP00057,Low,Evidence Driven,Low,Low,Growth Potential
+HCP00219,High,Cost Conscious,Low,Low,Growth Potential
+HCP01037,Medium,Conservative,Medium,Medium,Low Priority
+HCP01294,High,Evidence Driven,Low,High,Low Priority
+HCP01953,Low,Cost Conscious,Medium,High,Champions
+HCP01450,High,Cost Conscious,Medium,High,Maintain
+HCP02360,High,Early Adopter,Low,High,Maintain
+HCP01466,High,Cost Conscious,Medium,High,Maintain
+HCP00299,High,Evidence Driven,Low,High,Maintain
+HCP02178,Low,Early Adopter,High,High,Growth Potential
+HCP00179,High,Cost Conscious,Low,Medium,Low Priority
+HCP01188,Medium,Conservative,Medium,Low,Growth Potential
+HCP01473,Medium,Conservative,Low,Low,Growth Potential
+HCP00189,High,Early Adopter,Low,Medium,Maintain
+HCP00573,Medium,Cost Conscious,Medium,Low,Growth Potential
+HCP00434,High,Early Adopter,High,Low,Growth Potential
+HCP00519,High,Early Adopter,Low,Low,Low Priority
+HCP02347,Low,Evidence Driven,Low,High,Maintain
+HCP02272,Medium,Early Adopter,Medium,Medium,Growth Potential
+HCP01085,High,Evidence Driven,Low,Medium,Growth Potential
+HCP01289,High,Conservative,Low,High,Maintain
+HCP01124,High,Early Adopter,Medium,Low,Low Priority
+HCP01342,Low,Early Adopter,High,High,Growth Potential
+HCP02257,Low,Evidence Driven,Medium,Medium,Growth Potential
+HCP01491,High,Evidence Driven,Low,High,Growth Potential
+HCP00044,Medium,Evidence Driven,Low,High,Champions
+HCP01879,Medium,Early Adopter,Low,Low,Champions
+HCP00451,Low,Cost Conscious,Low,High,Maintain
+HCP02046,High,Early Adopter,Low,Low,Low Priority
+HCP00045,High,Evidence Driven,Medium,Low,Maintain
+HCP01284,Medium,Early Adopter,Low,Medium,Low Priority
+HCP01968,Medium,Conservative,Medium,High,Low Priority
+HCP02091,Medium,Early Adopter,High,Medium,Maintain
+HCP00255,Medium,Evidence Driven,High,Medium,Maintain
+HCP01946,Medium,Cost Conscious,Medium,High,Growth Potential
+HCP01875,Low,Evidence Driven,Medium,Low,Champions
+HCP01863,High,Evidence Driven,Medium,Low,Maintain
+HCP00565,Medium,Cost Conscious,Medium,Low,Low Priority
+HCP00213,Medium,Cost Conscious,Medium,High,Growth Potential
+HCP00867,Low,Early Adopter,High,Medium,Maintain
+HCP00743,High,Early Adopter,Medium,Low,Growth Potential
+HCP01252,Low,Cost Conscious,Medium,Low,Maintain
+HCP01048,Low,Cost Conscious,Low,Medium,Champions
+HCP01737,Low,Conservative,Medium,High,Maintain
+HCP01018,Medium,Early Adopter,High,High,Growth Potential
+HCP00171,Medium,Evidence Driven,Low,Low,Growth Potential
+HCP02097,High,Cost Conscious,Medium,High,Growth Potential
+HCP02488,Low,Early Adopter,High,Low,Maintain
+HCP02218,Medium,Early Adopter,Medium,High,Maintain
+HCP01798,Low,Cost Conscious,Low,Medium,Growth Potential
+HCP00545,High,Cost Conscious,Medium,Medium,Champions
+HCP01222,Low,Evidence Driven,High,Medium,Champions
+HCP00464,Low,Early Adopter,High,Medium,Champions
+HCP00989,Medium,Early Adopter,High,Low,Low Priority
+HCP01322,Medium,Evidence Driven,Medium,Medium,Growth Potential
+HCP00603,High,Conservative,High,Medium,Low Priority
+HCP01337,Medium,Cost Conscious,High,Medium,Low Priority
+HCP02340,High,Cost Conscious,High,Low,Maintain
+HCP01261,High,Evidence Driven,Medium,Low,Maintain
+HCP02115,Low,Evidence Driven,Medium,High,Maintain
+HCP00808,High,Conservative,High,High,Maintain
+HCP00887,Medium,Conservative,Low,High,Low Priority
+HCP01583,High,Cost Conscious,Low,Low,Champions
+HCP01615,Low,Conservative,Low,High,Low Priority
+HCP01838,Low,Conservative,High,Medium,Maintain
+HCP01874,High,Cost Conscious,Medium,High,Maintain
+HCP00283,Medium,Cost Conscious,Medium,Medium,Low Priority
+HCP00211,Low,Evidence Driven,High,High,Maintain
+HCP00112,Medium,Cost Conscious,High,Low,Maintain
+HCP01921,Medium,Cost Conscious,High,Low,Champions
+HCP02166,High,Cost Conscious,Medium,Medium,Maintain
+HCP00458,Medium,Cost Conscious,Low,Low,Maintain
+HCP00820,Medium,Conservative,Medium,Medium,Maintain
+HCP02185,Low,Conservative,Medium,High,Growth Potential
+HCP01656,High,Cost Conscious,High,Low,Champions
+HCP00253,Low,Early Adopter,Medium,Low,Low Priority
+HCP00252,Low,Evidence Driven,Medium,High,Low Priority
+HCP01540,Medium,Evidence Driven,High,Low,Growth Potential
+HCP02130,High,Evidence Driven,High,Low,Champions
+HCP01927,Low,Evidence Driven,Medium,Medium,Low Priority
+HCP01019,Medium,Conservative,High,Medium,Growth Potential
+HCP00423,Medium,Evidence Driven,Low,Low,Growth Potential
+HCP01176,High,Evidence Driven,Medium,Medium,Growth Potential
+HCP00621,High,Cost Conscious,High,Medium,Maintain
+HCP00174,Medium,Evidence Driven,High,Medium,Low Priority
+HCP00487,Medium,Conservative,Low,Low,Low Priority
+HCP01986,High,Conservative,High,Low,Growth Potential
+HCP01081,Medium,Conservative,Low,Low,Champions
+HCP01118,High,Conservative,Medium,Medium,Growth Potential
+HCP01358,Medium,Conservative,Medium,Medium,Low Priority
+HCP01042,Medium,Cost Conscious,Medium,Low,Growth Potential
+HCP01091,Low,Conservative,Low,Medium,Maintain
+HCP01356,Medium,Evidence Driven,Low,Low,Champions
+HCP00212,High,Cost Conscious,Low,High,Champions
+HCP00614,High,Cost Conscious,Low,High,Growth Potential
+HCP02150,Medium,Conservative,Low,High,Growth Potential
+HCP00465,High,Conservative,Medium,Low,Growth Potential
+HCP01468,Low,Cost Conscious,Low,Low,Champions
+HCP00555,High,Conservative,High,Low,Growth Potential
+HCP00908,Medium,Conservative,Medium,High,Champions
+HCP00994,High,Cost Conscious,High,Medium,Low Priority
+HCP01969,High,Conservative,Low,Low,Low Priority
+HCP01789,Low,Conservative,High,High,Growth Potential
+HCP01599,High,Conservative,Low,Low,Growth Potential
+HCP00097,Medium,Cost Conscious,High,Low,Growth Potential
+HCP01965,Low,Cost Conscious,Low,High,Low Priority
+HCP01365,Low,Cost Conscious,Low,Low,Low Priority
+HCP01925,Medium,Early Adopter,Low,Low,Champions
+HCP00612,Medium,Evidence Driven,Medium,Medium,Growth Potential
+HCP00446,Low,Early Adopter,Medium,High,Low Priority
+HCP00238,Low,Early Adopter,High,Medium,Growth Potential
+HCP02311,Low,Cost Conscious,Low,High,Growth Potential
+HCP00874,Medium,Conservative,Medium,Low,Maintain
+HCP02498,High,Cost Conscious,High,High,Low Priority
+HCP02055,Medium,Early Adopter,High,Low,Growth Potential
+HCP01674,Medium,Early Adopter,Low,Medium,Growth Potential
+HCP02123,High,Conservative,Low,Low,Growth Potential
+HCP00840,Medium,Evidence Driven,Medium,Medium,Growth Potential
+HCP00582,High,Early Adopter,Medium,High,Champions
+HCP01282,Medium,Early Adopter,Low,High,Low Priority
+HCP00980,Medium,Evidence Driven,Medium,Medium,Maintain
+HCP00791,Medium,Early Adopter,Medium,High,Champions
+HCP00842,Low,Evidence Driven,High,Low,Growth Potential
+HCP00483,Medium,Evidence Driven,Low,Medium,Growth Potential
+HCP01911,High,Early Adopter,Low,High,Champions
+HCP00622,Low,Conservative,Medium,High,Maintain
+HCP01503,High,Evidence Driven,High,Low,Growth Potential
+HCP00333,Low,Cost Conscious,High,High,Champions
+HCP00479,Medium,Cost Conscious,High,Medium,Growth Potential
+HCP01495,Low,Early Adopter,Low,Medium,Champions
+HCP00508,High,Early Adopter,High,Low,Champions
+HCP01451,Low,Cost Conscious,Low,Low,Low Priority
+HCP02424,Medium,Early Adopter,High,Medium,Growth Potential
+HCP00644,Medium,Conservative,High,Medium,Champions
+HCP00481,Medium,Evidence Driven,Medium,Medium,Low Priority
+HCP01456,Medium,Evidence Driven,Low,Low,Low Priority
+HCP02395,Medium,Conservative,High,Medium,Growth Potential
+HCP01012,Medium,Evidence Driven,Medium,High,Low Priority
+HCP00765,High,Evidence Driven,High,High,Champions
+HCP01290,Medium,Cost Conscious,High,Low,Low Priority
+HCP01224,High,Conservative,High,High,Low Priority
+HCP01334,High,Evidence Driven,Medium,Medium,Champions
+HCP00618,High,Early Adopter,Medium,High,Low Priority
+HCP00522,Medium,Conservative,Medium,Medium,Low Priority
+HCP00583,High,Early Adopter,Low,Low,Maintain
+HCP01059,Low,Evidence Driven,High,High,Growth Potential
+HCP01407,Low,Conservative,Low,Medium,Champions
+HCP00297,High,Cost Conscious,High,Medium,Low Priority
+HCP02443,High,Early Adopter,High,Medium,Champions
+HCP01062,High,Early Adopter,Medium,Low,Champions
+HCP00858,High,Evidence Driven,High,Medium,Champions
+HCP01693,Low,Early Adopter,Medium,Medium,Growth Potential
+HCP00408,High,Evidence Driven,Medium,Medium,Maintain
+HCP01079,Medium,Cost Conscious,High,Low,Growth Potential
+HCP01084,Medium,Cost Conscious,High,High,Growth Potential
+HCP00169,High,Cost Conscious,Low,Low,Maintain
+HCP02181,Low,Cost Conscious,High,Low,Champions
+HCP00240,Low,Cost Conscious,High,High,Growth Potential
+HCP02306,Low,Cost Conscious,High,High,Low Priority
+HCP01998,Medium,Cost Conscious,Medium,Medium,Low Priority
+HCP01902,High,Early Adopter,High,Low,Growth Potential
+HCP01051,Medium,Cost Conscious,Medium,Low,Growth Potential
+HCP01913,High,Cost Conscious,High,Low,Low Priority
+HCP01868,Low,Evidence Driven,High,High,Growth Potential
+HCP02096,Medium,Early Adopter,High,High,Maintain
+HCP00523,Low,Evidence Driven,High,Medium,Low Priority
+HCP01738,Low,Conservative,Low,Low,Maintain
+HCP02473,High,Evidence Driven,High,High,Growth Potential
+HCP01848,High,Evidence Driven,Medium,Low,Maintain
+HCP02369,Medium,Early Adopter,Medium,Medium,Low Priority
+HCP02250,High,Conservative,High,Low,Low Priority
+HCP01884,High,Evidence Driven,Low,High,Champions
+HCP01512,High,Evidence Driven,Medium,Low,Maintain
+HCP01460,Low,Cost Conscious,Medium,High,Maintain
+HCP01939,Medium,Early Adopter,High,High,Champions
+HCP01724,Medium,Cost Conscious,Medium,Low,Growth Potential
+HCP02026,Medium,Cost Conscious,Low,Low,Low Priority
+HCP01608,High,Evidence Driven,Low,Medium,Growth Potential
+HCP01978,High,Conservative,Low,Medium,Low Priority
+HCP00509,Medium,Evidence Driven,Medium,Medium,Champions
+HCP00633,Medium,Evidence Driven,Low,High,Champions
+HCP00916,Medium,Cost Conscious,Medium,Medium,Maintain
+HCP00260,High,Cost Conscious,Low,Medium,Champions
+HCP01396,Low,Early Adopter,Low,Low,Growth Potential
+HCP02296,Medium,Conservative,Low,Medium,Champions
+HCP02322,Medium,Conservative,Low,Medium,Maintain
+HCP00803,Low,Conservative,Low,High,Growth Potential
+HCP01936,Low,Conservative,Low,Low,Champions
+HCP01197,Low,Conservative,Medium,High,Growth Potential
+HCP01945,Medium,Conservative,Medium,Medium,Maintain
+HCP00757,Medium,Evidence Driven,Medium,Medium,Maintain
+HCP00802,Low,Conservative,Medium,Medium,Maintain
+HCP00234,Low,Conservative,Medium,Low,Growth Potential
+HCP01515,Low,Conservative,Low,Low,Maintain
+HCP00941,High,Conservative,High,Low,Low Priority
+HCP00999,Medium,Evidence Driven,High,High,Growth Potential
+HCP01103,Medium,Cost Conscious,Medium,Medium,Champions
+HCP01464,High,Conservative,Low,Medium,Champions
+HCP01877,Medium,Early Adopter,Low,Low,Low Priority
+HCP01226,High,Cost Conscious,High,Low,Champions
+HCP00325,Medium,Early Adopter,High,Medium,Growth Potential
+HCP01764,Medium,Cost Conscious,Low,Low,Growth Potential
+HCP01954,High,Early Adopter,Low,Low,Growth Potential
+HCP01378,Low,Early Adopter,Low,Medium,Low Priority
+HCP00101,Low,Early Adopter,Low,High,Low Priority
+HCP02482,Medium,Early Adopter,High,Low,Low Priority
+HCP01341,Low,Conservative,Low,Medium,Maintain
+HCP00388,Low,Early Adopter,Low,High,Growth Potential
+HCP01955,Low,Conservative,Low,Medium,Maintain
+HCP00180,Medium,Cost Conscious,Low,Medium,Champions
+HCP01695,Medium,Evidence Driven,High,Medium,Maintain
+HCP01663,Low,Cost Conscious,Low,Medium,Low Priority
+HCP01305,Low,Early Adopter,Low,Medium,Growth Potential
+HCP00928,Medium,Conservative,Low,Medium,Maintain
+HCP01431,High,Cost Conscious,Low,High,Champions
+HCP02269,Low,Cost Conscious,Medium,Medium,Growth Potential
+HCP00142,High,Evidence Driven,Medium,High,Maintain
+HCP00369,Low,Conservative,High,Low,Growth Potential
+HCP02446,Medium,Evidence Driven,High,Medium,Champions
+HCP01086,Medium,Cost Conscious,Medium,High,Low Priority
+HCP00368,Low,Evidence Driven,Low,Medium,Low Priority
+HCP01675,Low,Early Adopter,Low,Low,Growth Potential
+HCP01045,High,Early Adopter,High,High,Maintain
+HCP00319,Low,Cost Conscious,Low,High,Low Priority
+HCP01539,Low,Cost Conscious,Medium,Medium,Champions
+HCP00248,High,Evidence Driven,High,High,Growth Potential
+HCP00322,Medium,Cost Conscious,Medium,High,Growth Potential
+HCP01834,Low,Conservative,High,Low,Growth Potential
+HCP01840,Medium,Conservative,High,Medium,Maintain
+HCP01000,Low,Conservative,High,High,Growth Potential
+HCP00943,Medium,Cost Conscious,Low,Low,Low Priority
+HCP01773,Low,Cost Conscious,Medium,High,Growth Potential
+HCP00030,High,Cost Conscious,Low,Low,Maintain
+HCP01300,Medium,Conservative,Low,Low,Maintain
+HCP01994,Medium,Evidence Driven,High,High,Growth Potential
+HCP01915,High,Conservative,Medium,Low,Low Priority
+HCP00696,High,Early Adopter,Low,Medium,Champions
+HCP02471,High,Early Adopter,High,Low,Champions
+HCP02029,Low,Conservative,High,High,Low Priority
+HCP01601,High,Early Adopter,Low,Medium,Champions
+HCP02330,High,Early Adopter,High,Medium,Low Priority
+HCP01232,High,Conservative,Medium,Medium,Growth Potential
+HCP02174,Medium,Early Adopter,Medium,Medium,Low Priority
+HCP01916,Medium,Cost Conscious,Low,High,Maintain
+HCP01730,Low,Early Adopter,High,Low,Low Priority
+HCP01707,Low,Early Adopter,Medium,Low,Low Priority
+HCP01704,High,Evidence Driven,High,Low,Maintain
+HCP00756,Low,Evidence Driven,High,High,Growth Potential
+HCP01331,Medium,Early Adopter,Medium,Low,Champions
+HCP00354,Low,Cost Conscious,Low,Medium,Low Priority
+HCP00209,High,Early Adopter,Low,Low,Champions
+HCP02145,Medium,Evidence Driven,Low,High,Maintain
+HCP00904,High,Conservative,High,Low,Maintain
+HCP00953,High,Cost Conscious,Low,Medium,Maintain
+HCP01338,Medium,Conservative,Low,Low,Champions
+HCP01552,High,Early Adopter,High,High,Growth Potential
+HCP01568,High,Early Adopter,High,High,Low Priority
+HCP01944,Low,Cost Conscious,Medium,High,Low Priority
+HCP00486,High,Cost Conscious,High,Low,Growth Potential
+HCP01630,Low,Conservative,High,Medium,Low Priority
+HCP02040,Low,Cost Conscious,Medium,High,Champions
+HCP00200,Medium,Cost Conscious,Low,High,Low Priority
+HCP00230,Low,Early Adopter,Low,High,Maintain
+HCP00811,Medium,Conservative,Medium,Low,Low Priority
+HCP00788,Low,Conservative,Low,Low,Maintain
+HCP00411,High,Conservative,Low,High,Low Priority
+HCP00630,High,Cost Conscious,Medium,High,Growth Potential
+HCP01511,Medium,Evidence Driven,Low,Medium,Growth Potential
+HCP00663,Medium,Evidence Driven,High,Medium,Low Priority
+HCP02143,Low,Early Adopter,High,Medium,Growth Potential
+HCP01919,High,Conservative,Medium,Low,Growth Potential
+HCP02335,High,Conservative,Medium,High,Growth Potential
+HCP01270,Low,Evidence Driven,High,Medium,Maintain
+HCP00070,Low,Cost Conscious,High,Low,Maintain
+HCP00444,Low,Conservative,Medium,Medium,Low Priority
+HCP02148,Low,Cost Conscious,Low,Medium,Low Priority
+HCP02242,Medium,Cost Conscious,Low,Low,Growth Potential
+HCP01585,High,Cost Conscious,Low,Medium,Maintain
+HCP00232,Medium,Conservative,High,Low,Low Priority
+HCP00441,High,Conservative,Medium,Medium,Growth Potential
+HCP01628,High,Early Adopter,High,Low,Low Priority
+HCP01323,Low,Cost Conscious,Medium,Medium,Growth Potential
+HCP01279,Medium,Evidence Driven,High,High,Maintain
+HCP00818,High,Cost Conscious,High,Medium,Low Priority
+HCP00600,Low,Early Adopter,Medium,Low,Champions
+HCP01057,Low,Conservative,Low,Medium,Maintain
+HCP00415,High,Cost Conscious,High,High,Low Priority
+HCP00680,Medium,Cost Conscious,Medium,Medium,Low Priority
+HCP01519,High,Early Adopter,High,Medium,Low Priority
+HCP01117,Medium,Evidence Driven,High,Low,Growth Potential
+HCP00280,Medium,Conservative,Low,Medium,Champions
+HCP01386,Medium,Cost Conscious,Low,Medium,Growth Potential
+HCP00409,Medium,Evidence Driven,Low,Medium,Growth Potential
+HCP01092,Low,Conservative,Medium,Medium,Maintain
+HCP02283,Medium,Evidence Driven,High,Medium,Champions
+HCP01217,High,Evidence Driven,High,Medium,Low Priority
+HCP02079,Low,Early Adopter,Medium,Low,Low Priority
+HCP00499,High,Evidence Driven,High,High,Maintain
+HCP01709,Medium,Evidence Driven,High,Medium,Growth Potential
+HCP02027,Medium,Conservative,Medium,Low,Growth Potential
+HCP00790,Low,Evidence Driven,High,Medium,Maintain
+HCP01071,High,Conservative,High,High,Low Priority
+HCP02266,High,Cost Conscious,High,Medium,Maintain
+HCP00436,High,Conservative,Low,High,Maintain
+HCP02044,Medium,Early Adopter,Medium,Low,Champions
+HCP01880,High,Cost Conscious,High,Low,Low Priority
+HCP00783,Medium,Evidence Driven,Medium,Medium,Champions
+HCP01477,Low,Conservative,Low,Low,Growth Potential
+HCP01832,High,Conservative,High,High,Champions
+HCP01837,Low,Early Adopter,Low,Medium,Champions
+HCP00150,High,Cost Conscious,High,Medium,Champions
+HCP01195,Medium,Cost Conscious,Medium,High,Champions
+HCP02452,Low,Evidence Driven,High,Low,Maintain
+HCP01242,Medium,Evidence Driven,High,High,Growth Potential
+HCP01056,Low,Cost Conscious,High,Medium,Maintain
+HCP01770,Low,Conservative,High,Medium,Low Priority
+HCP01690,High,Cost Conscious,Low,Low,Champions
+HCP02094,Medium,Cost Conscious,High,Low,Maintain
+HCP02193,Low,Conservative,Low,Medium,Low Priority
+HCP01930,Medium,Cost Conscious,High,High,Champions
+HCP00164,Medium,Early Adopter,Low,Low,Champions
+HCP00439,High,Cost Conscious,Medium,High,Growth Potential
+HCP01026,High,Cost Conscious,Medium,Medium,Maintain
+HCP01383,High,Cost Conscious,Medium,Low,Low Priority
+HCP01979,Medium,Conservative,Medium,Medium,Maintain
+HCP00830,Low,Evidence Driven,Medium,Medium,Maintain
+HCP00655,Medium,Early Adopter,Low,Medium,Low Priority
+HCP00529,Low,Cost Conscious,Medium,Medium,Growth Potential
+HCP01134,Medium,Early Adopter,Medium,High,Maintain
+HCP00050,Medium,Cost Conscious,High,Low,Growth Potential
+HCP00068,High,Conservative,Low,Medium,Champions
+HCP02017,Medium,Early Adopter,High,Medium,Maintain
+HCP01371,Medium,Conservative,Medium,High,Champions
+HCP02271,Medium,Conservative,Low,High,Champions
+HCP00049,High,Early Adopter,Low,High,Maintain
+HCP01335,Medium,Early Adopter,Medium,Medium,Maintain
+HCP01682,Low,Cost Conscious,Medium,Medium,Growth Potential
+HCP00839,Low,Evidence Driven,High,Medium,Maintain
+HCP02163,Low,Cost Conscious,High,Low,Low Priority
+HCP00125,High,Conservative,High,Low,Low Priority
+HCP00611,High,Evidence Driven,High,Medium,Maintain
+HCP01861,High,Conservative,Low,High,Maintain
+HCP02333,High,Conservative,Medium,Low,Low Priority
+HCP01513,High,Conservative,Low,Low,Maintain
+HCP00742,Medium,Cost Conscious,High,Medium,Maintain
+HCP00026,Medium,Evidence Driven,Low,Low,Growth Potential
+HCP02389,Low,Early Adopter,High,High,Champions
+HCP01753,Medium,Evidence Driven,Low,Medium,Maintain
+HCP01534,High,Cost Conscious,Medium,Low,Champions
+HCP01816,High,Early Adopter,Medium,High,Maintain
+HCP01617,High,Evidence Driven,Medium,Low,Champions
+HCP01455,High,Early Adopter,Low,Medium,Low Priority
+HCP00566,Low,Early Adopter,High,Medium,Maintain
+HCP00846,High,Cost Conscious,Medium,High,Champions
+HCP02490,High,Cost Conscious,Low,Low,Maintain
+HCP01457,Low,Cost Conscious,Low,High,Maintain
+HCP00362,Medium,Evidence Driven,High,Medium,Champions
+HCP01566,Low,Cost Conscious,High,Medium,Maintain
+HCP02499,High,Early Adopter,High,Low,Champions
+HCP02415,Medium,Evidence Driven,High,Low,Champions
+HCP01835,Medium,Cost Conscious,Low,High,Maintain
+HCP01785,High,Conservative,Low,High,Growth Potential
+HCP00431,High,Conservative,Medium,Low,Low Priority
+HCP02310,Medium,Evidence Driven,Medium,High,Maintain
+HCP00638,Medium,Early Adopter,Low,Medium,Maintain
+HCP02188,Low,Evidence Driven,Medium,High,Maintain
+HCP00652,Low,Cost Conscious,High,High,Champions
+HCP00241,High,Evidence Driven,Low,High,Champions
+HCP00694,High,Evidence Driven,Medium,Low,Maintain
+HCP00071,Medium,Cost Conscious,High,Low,Low Priority
+HCP02233,Medium,Cost Conscious,High,Medium,Champions
+HCP00651,High,Early Adopter,Low,Medium,Champions
+HCP02019,High,Early Adopter,Low,Medium,Growth Potential
+HCP00074,Low,Cost Conscious,Medium,Medium,Champions
+HCP01164,High,Evidence Driven,Medium,Medium,Champions
+HCP00351,High,Cost Conscious,High,Medium,Maintain
+HCP02290,Medium,Evidence Driven,Medium,High,Growth Potential
+HCP02169,Medium,Cost Conscious,Medium,Medium,Low Priority
+HCP01099,Low,Early Adopter,High,High,Maintain
+HCP01447,Low,Early Adopter,Medium,High,Low Priority
+HCP02329,Medium,Early Adopter,Low,High,Maintain
+HCP00077,Low,Cost Conscious,High,Medium,Low Priority
+HCP00433,Medium,Cost Conscious,Medium,Low,Growth Potential
+HCP02350,Low,Early Adopter,High,Medium,Maintain
+HCP01293,Low,Conservative,Low,Low,Growth Potential
+HCP00158,Medium,Early Adopter,High,Low,Growth Potential
+HCP01799,Low,Cost Conscious,Medium,Medium,Maintain
+HCP01406,Low,Evidence Driven,High,Medium,Growth Potential
+HCP02051,Medium,Cost Conscious,Medium,Medium,Champions
+HCP00136,High,Cost Conscious,Medium,High,Growth Potential
+HCP02138,High,Early Adopter,Low,Low,Maintain
+HCP01929,Low,Evidence Driven,High,Medium,Low Priority
+HCP01691,Low,Evidence Driven,Low,Medium,Low Priority
+HCP00868,High,Cost Conscious,High,Low,Champions
+HCP01950,Medium,Conservative,Medium,Medium,Champions
+HCP00052,Low,Early Adopter,Low,Medium,Maintain
+HCP01901,High,Evidence Driven,Low,Low,Growth Potential
+HCP00679,High,Conservative,Medium,Low,Low Priority
+HCP01504,Medium,Cost Conscious,Low,High,Growth Potential
+HCP00290,Low,Conservative,Low,Medium,Growth Potential
+HCP02248,Medium,Early Adopter,High,Low,Low Priority
+HCP01421,High,Cost Conscious,High,Low,Maintain
+HCP01603,High,Cost Conscious,Medium,Low,Growth Potential
+HCP00533,Low,Early Adopter,Medium,High,Maintain
+HCP00480,High,Conservative,Low,Low,Champions
+HCP01404,Medium,Conservative,Medium,Low,Maintain
+HCP01933,Low,Evidence Driven,Low,High,Champions
+HCP00292,High,Conservative,High,High,Champions
+HCP01722,High,Evidence Driven,High,High,Champions
+HCP01069,Low,Early Adopter,Medium,Low,Champions
+HCP01024,Low,Cost Conscious,Medium,Low,Champions
+HCP02180,Medium,Early Adopter,High,Medium,Growth Potential
+HCP02228,High,Early Adopter,High,High,Champions
+HCP00706,Medium,Evidence Driven,High,High,Maintain
+HCP02035,Low,Early Adopter,Medium,Medium,Low Priority
+HCP00407,High,Conservative,Medium,High,Champions
+HCP02100,High,Cost Conscious,Medium,Medium,Maintain
+HCP02024,Medium,Cost Conscious,Low,Low,Maintain
+HCP02409,High,Conservative,Low,Medium,Champions
+HCP00979,High,Early Adopter,High,High,Champions
+HCP01746,Low,Evidence Driven,High,High,Low Priority
+HCP01881,High,Conservative,Low,High,Champions
+HCP00343,High,Conservative,Low,Medium,Maintain
+HCP01991,Low,Evidence Driven,High,Medium,Maintain
+HCP02477,High,Conservative,Medium,Medium,Low Priority
+HCP00835,Low,Conservative,Medium,Low,Champions
+HCP01453,Low,Evidence Driven,Low,High,Champions
+HCP00300,Low,Evidence Driven,Low,High,Growth Potential
+HCP01989,Low,Evidence Driven,Medium,Medium,Maintain
+HCP02294,Medium,Evidence Driven,Medium,Medium,Champions
+HCP00496,High,Cost Conscious,High,Medium,Low Priority
+HCP00813,High,Cost Conscious,High,Low,Champions
+HCP00930,Medium,Early Adopter,Medium,Low,Maintain
+HCP01058,Medium,Early Adopter,High,Low,Low Priority
+HCP01638,High,Evidence Driven,Medium,Low,Low Priority
+HCP02456,Medium,Early Adopter,Medium,Medium,Maintain
+HCP00221,Low,Conservative,Medium,High,Low Priority
+HCP02487,High,Evidence Driven,High,Medium,Champions
+HCP01660,Medium,Cost Conscious,High,Low,Low Priority
+HCP00528,High,Evidence Driven,Medium,Low,Growth Potential
+HCP01487,High,Evidence Driven,Medium,High,Growth Potential
+HCP02376,Medium,Cost Conscious,High,Low,Growth Potential
+HCP01610,Low,Conservative,High,Low,Maintain
+HCP00597,Low,Conservative,Low,High,Maintain
+HCP00085,High,Early Adopter,Medium,High,Growth Potential
+HCP02214,Medium,Conservative,Low,Medium,Maintain
